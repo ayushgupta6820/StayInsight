@@ -22,4 +22,3 @@ This is the frontend application for the InsightStay platform. It is built using
 - React Router DOM
 - Tailwind CSS
 - Vite
-- 
